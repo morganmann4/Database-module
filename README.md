@@ -16,8 +16,7 @@ The relational database I created was a database containing movies and their gen
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [W3](https://www.w3schools.com/sql/))
+* [W3](https://www.w3schools.com/sql/)
 
 
 # Future Work
